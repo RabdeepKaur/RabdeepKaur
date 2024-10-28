@@ -15,7 +15,14 @@
 
 
 # 💫 About Me:
+I am a Full Stack Application developer . I love working with web and mobile aplication.
+- :telescope: I’m am currently learning XR with unity engine and WebXR , along with that I am currently learning Python.
 
+- :seedling: I also love doing Technical writting  and I have also done social media marketing.
+
+- :zap: In my free time, I  love reading , traveling , running , eating tasty food and sleeping.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rabdeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rabdeep-kaur-35a26925b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appL)
 
 #  Badges
 [![An image of @rabdeepkaur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rabdeepkaur)](https://holopin.io/@rabdeepkaur)
