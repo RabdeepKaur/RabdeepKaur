@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGx1bWVyeG5veDR4dmV6dDdzMGZrZHBncmh3YXY1YXRkNGFicmtwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BzKxwk839bwqM95aWz/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhzbDRpMmp4azI2em5mcWFyNmRmdmpxbzN1NXU4azRncGk4MXU1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif)" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhzbDRpMmp4azI2em5mcWFyNmRmdmpxbzN1NXU4azRncGk4MXU1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" width="100"/>
   <div id="badges">
    <a href="https://www.linkedin.com/in/rabdeep-kaur-35a26925b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
