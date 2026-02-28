@@ -18,6 +18,7 @@
 Web & mobile app developer passionate about open-source contribution.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rabdeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rabdeep-kaur-35a26925b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appL)
+- [![Twitter Badge](https://img.shields.io/badge/-@Rabdeep790-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Rabdeep790)
 
 #  Badges
 [![An image of @rabdeepkaur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rabdeepkaur)](https://holopin.io/@rabdeepkaur)
