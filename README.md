@@ -15,12 +15,7 @@
 
 
 # 💫 About Me:
-I am a Full Stack Application developer . I love creating soultion to everday problem.
-- :telescope: I’m am currently learning whatever gets me a job. [Reach out Hire me ]
-
-- :seedling: I also love doing Technical writting  and I have also done social media marketing.
-
-- :zap: In my free time, I  love reading , traveling , running and sleeping.
+Web & mobile app developer passionate about open-source contribution.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rabdeep-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rabdeep-kaur-35a26925b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appL)
 
